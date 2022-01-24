@@ -3,12 +3,12 @@ entries:
   demo-nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-24T14:51:47.7694825+09:00"
+    created: "2022-01-24T15:28:06.6820876+09:00"
     description: A Helm chart for Kubernetes
-    digest: b1f90864440b9c1005a866dbd8348776e7dd05429b8e5d3f2dc8b9c9ed77ea5e
+    digest: 9743be8557a0f06d84353428e4bb959ae16b77edfbf22f3dd021d69900b3f42b
     name: demo-nginx
     type: application
     urls:
-    - https://minkee-lee.github.io/helm-chart-repo/stable/demo-nginx-0.1.0.tgz
+    - https://minkee-lee.github.io/helm-chart-repo/stable/demo-nginx.tgz
     version: 0.1.0
-generated: "2022-01-24T14:51:47.7661504+09:00"
+generated: "2022-01-24T15:28:06.6806376+09:00"
