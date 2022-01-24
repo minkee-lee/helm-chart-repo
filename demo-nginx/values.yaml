@@ -12,7 +12,8 @@ image:
   # tag: ""
   tag: 1.19.8-debian-10-r0
 
-imagePullSecrets: []
+imagePullSecrets:
+- name: redii
 nameOverride: ""
 fullnameOverride: ""
 
