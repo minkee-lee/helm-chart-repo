@@ -5,10 +5,12 @@
 replicaCount: 1
 
 image:
-  repository: nginx
+  # repository: nginx
+  repository: sds.redii.net/dep/bitnami-nginx
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  # tag: ""
+  tag: 1.19.8-debian-10-r0
 
 imagePullSecrets: []
 nameOverride: ""
